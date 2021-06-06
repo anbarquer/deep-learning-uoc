@@ -282,5 +282,7 @@ pip-selfcheck.json
 
 data/*
 img/*
+*.odt
+*.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,pycharm,virtualenv
